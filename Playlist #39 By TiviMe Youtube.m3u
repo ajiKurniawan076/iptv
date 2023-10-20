@@ -546,6 +546,9 @@ https://mangga-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png",Nickelodeon
 https://mangga-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+
 EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="Anak² & Kartun",My Kidz
 #http://rr.dens.tv/h/h191/index.m3u8
 
